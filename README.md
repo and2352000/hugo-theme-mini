@@ -39,7 +39,7 @@ Features:
 
     ```yaml
     theme: 
-       - github.com/nodejh/hugo-theme-mini
+       - github.com/and2352000/hugo-theme-mini
     ```
 
 ### 1.2 As Git Submodule
@@ -47,7 +47,7 @@ Features:
 1. Inside the folder of your Hugo site run:
 
     ```bash
-    $ git submodule add https://github.com/nodejh/hugo-theme-mini.git themes/mini
+    $ git submodule add https://github.com/and2352000/hugo-theme-mini.git themes/mini
     ```
 
 2. Add the theme's directory to your `config.yaml`:
